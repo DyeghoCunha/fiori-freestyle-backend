@@ -78,7 +78,9 @@ CLASS ZCL_ZOV_DPC_EXT IMPLEMENTATION.
 
 
   method OVCABSET_GET_ENTITY.
-
+er_entity-ordemid = 1.
+er_entity-criadopor = 'Dyegho'.
+er_entity-datacriacao = '19700101000000'.
   endmethod.
 
 
@@ -98,6 +100,11 @@ CLASS ZCL_ZOV_DPC_EXT IMPLEMENTATION.
 
 
   method OVITEMSET_DELETE_ENTITY.
+
+  endmethod.
+
+
+ method OVITEMSET_GET_ENTITY.
 
   endmethod.
 

@@ -15,147 +15,199 @@
     <item>
      <ID>I</ID>
      <KEY>001</KEY>
-     <ENTRY>Total da Ordem</ENTRY>
-     <LENGTH>132</LENGTH>
-    </item>
-    <item>
-     <ID>I</ID>
-     <KEY>002</KEY>
      <ENTRY>Id Ordem</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
+     <KEY>002</KEY>
+     <ENTRY>Data de Criação</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
      <KEY>003</KEY>
-     <ENTRY>Id Item</ENTRY>
+     <ENTRY>Criado por</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>004</KEY>
-     <ENTRY>Material</ENTRY>
+     <ENTRY>Id Cliente</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>005</KEY>
-     <ENTRY>Descrição</ENTRY>
+     <ENTRY>Total dos Itens</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>006</KEY>
-     <ENTRY>Quantidade</ENTRY>
+     <ENTRY>Total do Frete</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>007</KEY>
-     <ENTRY>Preço Unitário</ENTRY>
+     <ENTRY>Total da Ordem</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>008</KEY>
-     <ENTRY>Preço Total</ENTRY>
+     <ENTRY>Status</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>009</KEY>
-     <ENTRY>PK</ENTRY>
+     <ENTRY>Id Ordem</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>010</KEY>
-     <ENTRY>Message type</ENTRY>
+     <ENTRY>Id Item</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>011</KEY>
-     <ENTRY>Message Class</ENTRY>
+     <ENTRY>Material</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>012</KEY>
-     <ENTRY>Message number</ENTRY>
+     <ENTRY>Descrição</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>013</KEY>
-     <ENTRY>Message text</ENTRY>
+     <ENTRY>Quantidade</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>014</KEY>
-     <ENTRY>Log number</ENTRY>
+     <ENTRY>Preço Unitário</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>015</KEY>
-     <ENTRY>Message no.</ENTRY>
+     <ENTRY>Preço Total</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>016</KEY>
-     <ENTRY>Message Variable</ENTRY>
+     <ENTRY>PK</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>017</KEY>
-     <ENTRY>Message Variable</ENTRY>
+     <ENTRY>Message type</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>018</KEY>
-     <ENTRY>Message Variable</ENTRY>
+     <ENTRY>Message Class</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>019</KEY>
-     <ENTRY>Message Variable</ENTRY>
+     <ENTRY>Message number</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>020</KEY>
-     <ENTRY>Parameter Name</ENTRY>
+     <ENTRY>Message text</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>021</KEY>
-     <ENTRY>Parameter line</ENTRY>
+     <ENTRY>Log number</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>022</KEY>
-     <ENTRY>Field name</ENTRY>
+     <ENTRY>Message no.</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>023</KEY>
+     <ENTRY>Message Variable</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>024</KEY>
+     <ENTRY>Message Variable</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>025</KEY>
+     <ENTRY>Message Variable</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>026</KEY>
+     <ENTRY>Message Variable</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>027</KEY>
+     <ENTRY>Parameter Name</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>028</KEY>
+     <ENTRY>Parameter line</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>029</KEY>
+     <ENTRY>Field name</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>030</KEY>
      <ENTRY>Logical system</ENTRY>
      <LENGTH>132</LENGTH>
     </item>
    </TPOOL>
    <DESCRIPTIONS>
     <SEOCOMPOTX>
+     <CMPNAME>DEFINE_ACTIONS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>DEFINE_ACTIONS</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
      <CMPNAME>DEFINE_ASSOCIATIONS</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>DEFINE_ASSOCIATIONS</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DEFINE_COMPLEXTYPES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>DEFINE_COMPLEXTYPES</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>DEFINE_MENSAGEM</CMPNAME>
